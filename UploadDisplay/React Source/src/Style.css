@@ -1,0 +1,21 @@
+.hf{
+    background-color: #2c5282;
+    color: #ebf8ff;
+    
+  }
+
+  .f{
+      border: 2px solid rgb(149, 187, 184);
+      background-color: rgb(185, 215, 240);
+      border-radius: 3px;
+      width: fit-content;
+      
+  }
+
+  .bttn{
+    background-color: rgb(228, 240, 250);
+    color:#2c5282;
+    width:100px;
+    font-Weight:bold;
+    padding-Bottom:2px;
+  }
